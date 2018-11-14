@@ -8,9 +8,8 @@
   <p>5.<a href="http://MyisCZQ.github.io/html+css/5.0.html">开关与选项按钮</a></p>   
   <p>6.<a href="http://MyisCZQ.github.io/html+css/2.0.html">帧跳一跳</a></p>  
   <p>7.<a href="http://MyisCZQ.github.io/html+css/3.0.html">花朵动画转圈圈</a></p>  
-  <p>8.<a href="http://MyisCZQ.github.io/html+css/4.0.html">草原女孩</a></p> 
   
-  <p>8.<a href="http://aa.io / 2.less /翻转 /4.0.html">草原女孩</a></p> 
+  <p>8.<a href="http://aa.io / 1.html + css / 3D正方形转动 /5.3.html">哈哈</a></p> 
 <hr>  
  二.
   
